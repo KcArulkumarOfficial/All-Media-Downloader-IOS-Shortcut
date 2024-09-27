@@ -1,9 +1,9 @@
 {
-  "version": "1.9",
+  "version": "1.10",
   "aVersion": "1.0",
   "pVersion": "1.0",
   "url": "https://t.me/kc_arukumar_official",
-  "notes": "Add support for a few more sites",
+  "notes": "Add Multi Platforms Video Download Futures",
   "api": "https://api.cobalt.tools/api/json",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "release": "May 14, 2024"
