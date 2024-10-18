@@ -1,9 +1,9 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "aVersion": "1.0",
-  "pVersion": "1.1",
+  "pVersion": "1.2",
   "url": "https://www.icloud.com/shortcuts/29c9bcfd6f3c4c6d872fb30e596aa811",
-  "notes": "Fix bugs, Improving shortcut design.",
+  "notes": "Improving shortcut design.",
   "api": "https://api.cobalt.tools/api/json",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "release": "September 27, 2024"
